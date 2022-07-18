@@ -1,0 +1,20 @@
+Elemental Hearts: Labor of Love is a revival of Elemental Hearts mod, that was made by Lite, also known as Vincent Jenei.
+Vincent Jenei disappeared after April 13th and didn't updated the mod after.
+But now we doing our own take on this mod.
+
+We COMPLETELY rewrote old way, and now its better for whole 3 reasons:
+1. Better readability.
+2. Open-source. (Everyone can contribute and learn!)
+3. Completely new sprites for most hearts.
+
+You can use any sprite from this mod as long as you credit us.
+
+Discord: https://discord.gg/rrxE78cyjm
+Github:
+
+Credits:
+FoxXD_ - updating few sprites and code rewriting. (as well as most sprites in original Elemental Hearts)
+Nyarlathotep - help with reviving mod.
+Some spriter - new sprites for the mod.
+Kazzymodus - original shockwave effect. (https://forums.terraria.org/index.php?threads/tutorial-shockwave-effect-for-tmodloader.81685/)
+Lite (aka Vincent Jenei) - original mod. That's all.

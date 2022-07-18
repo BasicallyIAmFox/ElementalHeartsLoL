@@ -1,0 +1,1 @@
+All sprites in this folder were made by FoxXD_

@@ -1,0 +1,5 @@
+displayName = Elemental Hearts: Labor of Love
+author = FoxXD_
+version = 1.0.0.1
+
+homepage = https://discord.gg/rrxE78cyjm
