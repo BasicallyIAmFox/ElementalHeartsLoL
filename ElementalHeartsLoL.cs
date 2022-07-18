@@ -104,7 +104,7 @@ namespace ElementalHeartsLoL
 				{ "GoldHeart", new("GoldHeart") { category = PreHardmodeCategory, station = TileID.Furnaces, material = ItemID.GoldOre } },
 				{ "GraniteHeart", new("GraniteHeart") { category = PreHardmodeCategory, station = TileID.WorkBenches, material = ItemID.GraniteBlock } },
 				{ "HayHeart", new("HayHeart") { category = PreHardmodeCategory, station = TileID.WorkBenches, material = ItemID.Hay } },
-				{ "HellstoneHeart", new("HellstoneHeart") { category = PreHardmodeCategory, station = TileID.WorkBenches, material = ItemID.GraniteBlock } },
+				{ "HellstoneHeart", new("HellstoneHeart") { category = PreHardmodeCategory, station = TileID.Hellforge, material = ItemID.Hellstone } },
 				{ "HoneyHeart", new("HoneyHeart") { category = PreHardmodeCategory, station = TileID.HoneyDispenser, material = ItemID.HoneyBlock } },
 				{ "IceHeart", new("IceHeart") { category = PreHardmodeCategory, station = TileID.IceMachine, material = ItemID.IceBlock } },
 				{ "IronHeart", new("IronHeart") { category = PreHardmodeCategory, station = TileID.Furnaces, material = ItemID.IronOre } },
@@ -156,7 +156,7 @@ namespace ElementalHeartsLoL
 		public string tag;
 		public string name;
 
-		public override bool IsLoadingEnabled(Mod mod) => heart.joke;
+		public override bool IsLoadingEnabled(Mod mod) => !heart.joke;
 
 		protected override bool CloneNewInstances => true;
 		public override string Name => name;
